@@ -9,19 +9,19 @@
     <title>Goals</title>
     <link>https://bluerose.garden/flowerbed//Goals</link>
     <guid>https://bluerose.garden/flowerbed//Goals</guid>
-    <description> Study Learning Japanese Exercise more Read .</description>
+    <description>A place for me to just talk off the cuff about my personal goals and plans. At the moment it’s a little empty, but this is helpful as I begin to really dig into what I’m interested in.</description>
     <pubDate>Tue, 11 Jul 2023 01:49:37 GMT</pubDate>
   </item><item>
-    <title>Learning Japanese</title>
-    <link>https://bluerose.garden/flowerbed//Learning-Japanese</link>
-    <guid>https://bluerose.garden/flowerbed//Learning-Japanese</guid>
-    <description>This is my main page for collecting resources and planning my Japanese journey. Lets go! Resources § Transclude of block japanese.</description>
-    <pubDate>Tue, 04 Jul 2023 21:02:25 GMT</pubDate>
+    <title>Japanese</title>
+    <link>https://bluerose.garden/flowerbed//Japanese</link>
+    <guid>https://bluerose.garden/flowerbed//Japanese</guid>
+    <description>This is my main page for collecting resources and planning my Japanese journey Resources § Transclude of block japanese.</description>
+    <pubDate>Wed, 01 Nov 2023 23:15:25 GMT</pubDate>
   </item><item>
     <title>Linguistics</title>
     <link>https://bluerose.garden/flowerbed//Linguistics</link>
     <guid>https://bluerose.garden/flowerbed//Linguistics</guid>
-    <description>Resources § Sites § https://iamautodidact.com/how-to-study-linguistics-on-your-own/ https://allthingslinguistic.com/post/164874346205/how-to-teach-yourself-linguistics-online-for-free https://www.</description>
+    <description>I am fascinated by language and the ways they evolve and the forms they take. While I mainly want to study linguistics in order to better help me learn Japanese, I would love to develop a conlang or two with it.</description>
     <pubDate>Tue, 30 May 2023 20:51:50 GMT</pubDate>
   </item><item>
     <title>Absolute Values in Algebra</title>
@@ -54,17 +54,17 @@
     <description>This is where I’ll have various shortcuts. Quickly Foil § If you have something like this Missing \begin{align} or extra \end{align}(x-8)^2 \\ \end{align}$$ Instead of manually FOILing it out, you just need to follow do this: $$\begin{gather} \\ \text{First, be sure to keep the b&#039;s sign the same when doubling it, weird I know!} \\ x^2\text{+/-}2(b)+b^2\\ \text{So the above would be:} \\ (x-8)^2 =x^2 -16+64 \end{gather} I need to add more aa if the last two digits are divisible by 4 then the whole thing is divisible by 4 11 * a number with 2 digits, add the two digits together and put it in the middle so for example 11 * 72 = 792! if it goes over 9 then you just roll it over 11 * 89 979 mjx-container[jax=&quot;SVG&quot;] { direction: ltr; } mjx-container[jax=&quot;SVG&quot;] &gt; svg { overflow: visible; min-height: 1px; min-width: 1px; } mjx-container[jax=&quot;SVG&quot;] &gt; svg a { fill: blue; stroke: blue; } mjx-container[jax=&quot;SVG&quot;][display=&quot;true&quot;] { display: block; text-align: center; margin: 1em 0; } mjx-container[jax=&quot;SVG&quot;][display=&quot;true&quot;][width=&quot;full&quot;] { display: flex; } mjx-container[jax=&quot;SVG&quot;][justify=&quot;left&quot;] { text-align: left; } mjx-container[jax=&quot;SVG&quot;][justify=&quot;right&quot;] { text-align: right; } g[data-mml-node=&quot;merror&quot;] &gt; g { fill: red; stroke: red; } g[data-mml-node=&quot;merror&quot;] &gt; rect[data-background] { fill: yellow; stroke: none; } g[data-mml-node=&quot;mtable&quot;] &gt; line[data-line], svg[data-table] &gt; g &gt; line[data-line] { stroke-width: 70px; fill: none; } g[data-mml-node=&quot;mtable&quot;] &gt; rect[data-frame], svg[data-table] &gt; g &gt; rect[data-frame] { stroke-width: 70px; fill: none; } g[data-mml-node=&quot;mtable&quot;] &gt; .</description>
     <pubDate>Mon, 04 Sep 2023 22:16:53 GMT</pubDate>
   </item><item>
-    <title>Textbooks</title>
-    <link>https://bluerose.garden/flowerbed//Textbooks</link>
-    <guid>https://bluerose.garden/flowerbed//Textbooks</guid>
-    <description>Math &amp; Programming § o’reilly designing data intensive (ebook) Japanese § Minna No Nihongo Japanese the Manga Way.</description>
-    <pubDate>Tue, 30 May 2023 20:51:44 GMT</pubDate>
+    <title>Textbook Collection</title>
+    <link>https://bluerose.garden/flowerbed//Textbook-Collection</link>
+    <guid>https://bluerose.garden/flowerbed//Textbook-Collection</guid>
+    <description>This is a collection of textbooks that I have found interesting! Only the ones with stars are ones I have read Math &amp; Programming § o’reilly designing data intensive (ebook) Japanese § Minna No Nihongo Japanese the Manga Way .</description>
+    <pubDate>Wed, 01 Nov 2023 23:15:25 GMT</pubDate>
   </item><item>
-    <title>The Pathway</title>
-    <link>https://bluerose.garden/flowerbed//</link>
-    <guid>https://bluerose.garden/flowerbed//</guid>
-    <description>Welcome to my digital garden!! Notes published here are going to be in various states of complete, indicated (eventually) by their levels: 🌱,🌳, and 🌲 Here are some of the current pages published: Textbooks Linguistics Learning Japanese Goals Math Index .</description>
-    <pubDate>Sun, 29 Oct 2023 00:19:39 GMT</pubDate>
+    <title>digital garden resources</title>
+    <link>https://bluerose.garden/flowerbed//digital-garden-resources</link>
+    <guid>https://bluerose.garden/flowerbed//digital-garden-resources</guid>
+    <description> A Brief History &amp; Ethos of the Digital Garden Digital Gardening Tools and Resources on GitHub .</description>
+    <pubDate>Wed, 01 Nov 2023 23:15:25 GMT</pubDate>
   </item>
     </channel>
   </rss>
