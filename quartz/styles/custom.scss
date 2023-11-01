@@ -3,9 +3,10 @@
 // put your custom CSS here!
 
 h1{
+    font-weight: bold;
     &.page-title{
         a{
-            span{padding-left: 1rem;}
+            span{padding-left: 0.5rem;}
         
             #flowerBlue{
                 color: #788ae3 !important;
