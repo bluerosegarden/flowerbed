@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "bluerose.garden/flowerbed/",//**/!(*.md)   **/!(attachments)/!(*.md)    !(attachments)/!(*.md)  
-    ignorePatterns: ["private", "**/__Templates", "Templates", "**/.obsidian", "**/.stversions/", "**/.trash","!(attachments)**/!(*.md)", "!(*.md)"],
+    ignorePatterns: ["private", "**/__Templates", "Templates", "**/.obsidian", "**/.stversions/", "**/.trash","!(attachments)**/!(*.md)", "!(*.md|vercel.json)"],
     defaultDateType: "created",
     theme: {
       typography: {
