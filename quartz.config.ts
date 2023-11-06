@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Blue's Flowerbed",
-    favIcon: "favIcon.svg",
+    favIcon: "favicon.svg",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
