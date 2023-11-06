@@ -64,6 +64,7 @@ h6 {
       color: #a495df;
       &::before {
         content: $internal-link-svg;
+        white-space: nowrap;
       }
       border-bottom: $internal-link-underline;
       &:hover {
@@ -73,6 +74,7 @@ h6 {
     &.external {
       &::after {
         content: $external-link-svg;
+        white-space: nowrap;
       }
       border-radius: 0;
       border-bottom: $external-link-underline;
