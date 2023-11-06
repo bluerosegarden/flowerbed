@@ -10,7 +10,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "bluerose.garden/flowerbed/", //**/!(*.md)   **/!(attachments)/!(*.md)    !(attachments)/!(*.md)
+    baseUrl: "flowerbed.bluerose.garden", //**/!(*.md)   **/!(attachments)/!(*.md)    !(attachments)/!(*.md)
     ignorePatterns: [
       "private",
       "**/__Templates",
