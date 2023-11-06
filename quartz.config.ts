@@ -4,13 +4,23 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Blue's Flowerbed",
+    favIcon: "icon.png",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "bluerose.garden/flowerbed/",//**/!(*.md)   **/!(attachments)/!(*.md)    !(attachments)/!(*.md)  
-    ignorePatterns: ["private", "**/__Templates", "Templates", "**/.obsidian", "**/.stversions/", "**/.trash","!(attachments)**/!(*.md)", "!(*.md|vercel.json)"],
+    baseUrl: "bluerose.garden/flowerbed/", //**/!(*.md)   **/!(attachments)/!(*.md)    !(attachments)/!(*.md)
+    ignorePatterns: [
+      "private",
+      "**/__Templates",
+      "Templates",
+      "**/.obsidian",
+      "**/.stversions/",
+      "**/.trash",
+      "!(attachments)**/!(*.md)",
+      "!(*.md|vercel.json)",
+    ],
     defaultDateType: "created",
     theme: {
       typography: {
