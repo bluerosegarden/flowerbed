@@ -2,10 +2,24 @@
 
 // put your custom CSS here!
 
+$external-link-svg: url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="15" height="15" viewBox="0 0 20 20"%3E%3Cg fill="%23788ae3"%3E%3Cpath d="M11 3a1 1 0 1 0 0 2h2.586l-6.293 6.293a1 1 0 1 0 1.414 1.414L15 6.414V9a1 1 0 1 0 2 0V4a1 1 0 0 0-1-1h-5Z"%2F%3E%3Cpath d="M5 5a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-3a1 1 0 1 0-2 0v3H5V7h3a1 1 0 0 0 0-2H5Z"%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E');
+$external-link-svg-big: url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="25" height="25" viewBox="0 0 20 20"%3E%3Cg fill="%23788ae3"%3E%3Cpath d="M11 3a1 1 0 1 0 0 2h2.586l-6.293 6.293a1 1 0 1 0 1.414 1.414L15 6.414V9a1 1 0 1 0 2 0V4a1 1 0 0 0-1-1h-5Z"%2F%3E%3Cpath d="M5 5a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-3a1 1 0 1 0-2 0v3H5V7h3a1 1 0 0 0 0-2H5Z"%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E');
+
+//$internal-link-svg: url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="24" height="24" viewBox="0 0 24 24"%3E%3Cpath fill="%23a495df" d="M6.502 3.003a3.5 3.5 0 0 0-3.5 3.5v6a3.5 3.5 0 0 0 3.5 3.5H7v-2h-.497a1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5h6a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5h-1.506v2h1.506a3.5 3.5 0 0 0 3.5-3.5v-6a3.5 3.5 0 0 0-3.5-3.5h-6ZM10 11.5a1.5 1.5 0 0 1 1.5-1.5h1.499V8H11.5A3.5 3.5 0 0 0 8 11.5v6a3.5 3.5 0 0 0 3.5 3.5h6a3.5 3.5 0 0 0 3.5-3.5v-6A3.5 3.5 0 0 0 17.5 8h-.495v2h.495a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5v-6Z"%2F%3E%3C%2Fsvg%3E');
+
+$internal-link-svg:url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="15" height="15" viewBox="0 0 24 24"%3E%3Cg transform="rotate(180 12 12)"%3E%3Cg fill="none" stroke="%23a495df" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"%3E%3Cpath stroke-dasharray="36" stroke-dashoffset="36" d="M12 5C8.13401 5 5 8.13401 5 12C5 15.866 8.13401 19 12 19C15.866 19 19 15.866 19 12"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" dur="0.6s" values="36%3B0"%2F%3E%3C%2Fpath%3E%3Cpath stroke-dasharray="12" stroke-dashoffset="12" d="M13 11L20 4"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" begin="0.6s" dur="0.3s" values="12%3B0"%2F%3E%3C%2Fpath%3E%3Cpath stroke-dasharray="8" stroke-dashoffset="8" d="M21 3H15M21 3V9"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" begin="0.9s" dur="0.2s" values="8%3B0"%2F%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E');
+
+$internal-link-svg-big:url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="25" height="25" viewBox="0 0 24 24"%3E%3Cg transform="rotate(180 12 12)"%3E%3Cg fill="none" stroke="%23a495df" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"%3E%3Cpath stroke-dasharray="36" stroke-dashoffset="36" d="M12 5C8.13401 5 5 8.13401 5 12C5 15.866 8.13401 19 12 19C15.866 19 19 15.866 19 12"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" dur="0.6s" values="36%3B0"%2F%3E%3C%2Fpath%3E%3Cpath stroke-dasharray="12" stroke-dashoffset="12" d="M13 11L20 4"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" begin="0.6s" dur="0.3s" values="12%3B0"%2F%3E%3C%2Fpath%3E%3Cpath stroke-dasharray="8" stroke-dashoffset="8" d="M21 3H15M21 3V9"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" begin="0.9s" dur="0.2s" values="8%3B0"%2F%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E');
+
+$internal-link-underline: 0.25rem solid #a495df;
+$external-link-underline: 0.15rem solid #788ae3 ;
+
+
 h1{
     font-weight: bold;
     &.page-title{
         a{
+            
             span{padding-left: 0.5rem;}
         
             #flowerBlue{
@@ -36,38 +50,57 @@ h1{
     }
 }
 
-article, footer{
+article, footer, h2, h3, h4, h5, h6{
     a {
+        transition: border-bottom-width 0.2s ease;
         &.internal {
-            background-color: transparent;
-            &::after{
-                content: url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="16" height="16" viewBox="0 0 24 24"%3E%3Cg fill="none" fill-rule="evenodd"%3E%3Cpath d="M24 0v24H0V0h24ZM12.594 23.258l-.012.002l-.071.035l-.02.004l-.014-.004l-.071-.036c-.01-.003-.019 0-.024.006l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427c-.002-.01-.009-.017-.016-.018Zm.264-.113l-.014.002l-.184.093l-.01.01l-.003.011l.018.43l.005.012l.008.008l.201.092c.012.004.023 0 .029-.008l.004-.014l-.034-.614c-.003-.012-.01-.02-.02-.022Zm-.715.002a.023.023 0 0 0-.027.006l-.006.014l-.034.614c0 .012.007.02.017.024l.015-.002l.201-.093l.01-.008l.003-.011l.018-.43l-.003-.012l-.01-.01l-.184-.092Z"%2F%3E%3Cpath fill="%23a495df" d="M6 4.5a5.5 5.5 0 0 0-2.751 10.263a1.5 1.5 0 1 0 1.502-2.597A2.5 2.5 0 0 1 6 7.5h6a2.5 2.5 0 0 1 .626 4.921a1.5 1.5 0 0 0 .748 2.906A5.502 5.502 0 0 0 12 4.5H6Zm5.374 7.079a1.5 1.5 0 0 0-.748-2.906A5.502 5.502 0 0 0 12 19.5h6a5.5 5.5 0 0 0 2.751-10.263a1.5 1.5 0 0 0-1.502 2.597A2.5 2.5 0 0 1 18 16.5h-6a2.5 2.5 0 0 1-.626-4.921Z"%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E');
+            background-color: rgb(203, 202, 204, 15%);
+            color:#a495df;
+            &::before{
+                content: $internal-link-svg;
+            }
+            border-bottom: $internal-link-underline;
+            &:hover{
+                border-bottom-width: 0.10rem;
             }
         }
         &.external{
             &::after{
-                content: url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="15" height="15" viewBox="0 0 256 256"%3E%3Cg fill="%23788ae3"%3E%3Cpath d="M224 128a96 96 0 1 1-96-96a96 96 0 0 1 96 96Z" opacity=".2"%2F%3E%3Cpath d="M128 24a104 104 0 1 0 104 104A104.11 104.11 0 0 0 128 24Zm-26.37 144h52.74C149 186.34 140 202.87 128 215.89c-12-13.02-21-29.55-26.37-47.89ZM98 152a145.72 145.72 0 0 1 0-48h60a145.72 145.72 0 0 1 0 48Zm-58-24a87.61 87.61 0 0 1 3.33-24h38.46a161.79 161.79 0 0 0 0 48H43.33A87.61 87.61 0 0 1 40 128Zm114.37-40h-52.74C107 69.66 116 53.13 128 40.11c12 13.02 21 29.55 26.37 47.89Zm19.84 16h38.46a88.15 88.15 0 0 1 0 48h-38.46a161.79 161.79 0 0 0 0-48Zm32.16-16h-35.43a142.39 142.39 0 0 0-20.26-45a88.37 88.37 0 0 1 55.69 45ZM105.32 43a142.39 142.39 0 0 0-20.26 45H49.63a88.37 88.37 0 0 1 55.69-45ZM49.63 168h35.43a142.39 142.39 0 0 0 20.26 45a88.37 88.37 0 0 1-55.69-45Zm101.05 45a142.39 142.39 0 0 0 20.26-45h35.43a88.37 88.37 0 0 1-55.69 45Z"%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E');
-                padding-left: 0.25;
+                content: $external-link-svg;
             }
+            border-radius: 0;
+            border-bottom: $external-link-underline;
         }
     }
 }
 
-h2 {
+a.tag-link{
+    background-color: rgb(203, 202, 204, 15%) !important;
+    color: #a495df;
+}
+
+h2, h3, h4, h5, h6 {
     a{
-        &.internal{
-            color: var(--secondary);
-            &::after{
-                content: url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="24" height="24" viewBox="0 0 24 24"%3E%3Cg fill="none" fill-rule="evenodd"%3E%3Cpath d="M24 0v24H0V0h24ZM12.594 23.258l-.012.002l-.071.035l-.02.004l-.014-.004l-.071-.036c-.01-.003-.019 0-.024.006l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427c-.002-.01-.009-.017-.016-.018Zm.264-.113l-.014.002l-.184.093l-.01.01l-.003.011l.018.43l.005.012l.008.008l.201.092c.012.004.023 0 .029-.008l.004-.014l-.034-.614c-.003-.012-.01-.02-.02-.022Zm-.715.002a.023.023 0 0 0-.027.006l-.006.014l-.034.614c0 .012.007.02.017.024l.015-.002l.201-.093l.01-.008l.003-.011l.018-.43l-.003-.012l-.01-.01l-.184-.092Z"%2F%3E%3Cpath fill="%23a495df" d="M6 4.5a5.5 5.5 0 0 0-2.751 10.263a1.5 1.5 0 1 0 1.502-2.597A2.5 2.5 0 0 1 6 7.5h6a2.5 2.5 0 0 1 .626 4.921a1.5 1.5 0 0 0 .748 2.906A5.502 5.502 0 0 0 12 4.5H6Zm5.374 7.079a1.5 1.5 0 0 0-.748-2.906A5.502 5.502 0 0 0 12 19.5h6a5.5 5.5 0 0 0 2.751-10.263a1.5 1.5 0 0 0-1.502 2.597A2.5 2.5 0 0 1 18 16.5h-6a2.5 2.5 0 0 1-.626-4.921Z"%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E');
+        &.internal {
+            &::before{
+                content: $internal-link-svg-big;
             }
         }
-        
+        &.external{
+            &::after{
+                content: $external-link-svg-big;
+            }
+        }
         &:last-of-type{
+            &::before {
+                content: none;
+            }
             &::after {
                 content: none;
             }
+            border-bottom: none;
             color: black;
         }
-        
+        border-bottom: none;
     }
 }
