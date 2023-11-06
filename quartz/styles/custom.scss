@@ -54,7 +54,7 @@ article, footer, h2, h3, h4, h5, h6{
     a {
         transition: border-bottom-width 0.2s ease;
         &.internal {
-            background-color: rgb(203, 202, 204, 15%);
+            background-color: rgb(203, 202, 204, 12%);
             color:#a495df;
             &::before{
                 content: $internal-link-svg;
@@ -75,7 +75,7 @@ article, footer, h2, h3, h4, h5, h6{
 }
 
 a.tag-link{
-    background-color: rgb(203, 202, 204, 15%) !important;
+    background-color: rgb(203, 202, 204, 12%) !important;
     color: #a495df;
 }
 
