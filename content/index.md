@@ -1,7 +1,7 @@
 ---
 publish: true
-dg-home: true
-dg-pinned: true
+dg-home: false
+dg-pinned: false
 title: The Pathway into the Hedges
 ---
 
@@ -21,4 +21,4 @@ Here are some starting paths:
 - [[Linguistics|Linguistics]]
 - [[Japanese|Japanese]]
 - [[Goals|Goals]]
-- [Tags](https://flowerbed.bluerose.garden/tags/)
+- [[tags|Tags]]
