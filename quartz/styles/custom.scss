@@ -7,100 +7,110 @@ $external-link-svg-big: url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w
 
 //$internal-link-svg: url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="24" height="24" viewBox="0 0 24 24"%3E%3Cpath fill="%23a495df" d="M6.502 3.003a3.5 3.5 0 0 0-3.5 3.5v6a3.5 3.5 0 0 0 3.5 3.5H7v-2h-.497a1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5h6a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5h-1.506v2h1.506a3.5 3.5 0 0 0 3.5-3.5v-6a3.5 3.5 0 0 0-3.5-3.5h-6ZM10 11.5a1.5 1.5 0 0 1 1.5-1.5h1.499V8H11.5A3.5 3.5 0 0 0 8 11.5v6a3.5 3.5 0 0 0 3.5 3.5h6a3.5 3.5 0 0 0 3.5-3.5v-6A3.5 3.5 0 0 0 17.5 8h-.495v2h.495a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5h-6a1.5 1.5 0 0 1-1.5-1.5v-6Z"%2F%3E%3C%2Fsvg%3E');
 
-$internal-link-svg:url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="15" height="15" viewBox="0 0 24 24"%3E%3Cg transform="rotate(180 12 12)"%3E%3Cg fill="none" stroke="%23a495df" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"%3E%3Cpath stroke-dasharray="36" stroke-dashoffset="36" d="M12 5C8.13401 5 5 8.13401 5 12C5 15.866 8.13401 19 12 19C15.866 19 19 15.866 19 12"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" dur="0.6s" values="36%3B0"%2F%3E%3C%2Fpath%3E%3Cpath stroke-dasharray="12" stroke-dashoffset="12" d="M13 11L20 4"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" begin="0.6s" dur="0.3s" values="12%3B0"%2F%3E%3C%2Fpath%3E%3Cpath stroke-dasharray="8" stroke-dashoffset="8" d="M21 3H15M21 3V9"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" begin="0.9s" dur="0.2s" values="8%3B0"%2F%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E');
+$internal-link-svg: url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="15" height="15" viewBox="0 0 24 24"%3E%3Cg transform="rotate(180 12 12)"%3E%3Cg fill="none" stroke="%23a495df" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"%3E%3Cpath stroke-dasharray="36" stroke-dashoffset="36" d="M12 5C8.13401 5 5 8.13401 5 12C5 15.866 8.13401 19 12 19C15.866 19 19 15.866 19 12"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" dur="0.6s" values="36%3B0"%2F%3E%3C%2Fpath%3E%3Cpath stroke-dasharray="12" stroke-dashoffset="12" d="M13 11L20 4"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" begin="0.6s" dur="0.3s" values="12%3B0"%2F%3E%3C%2Fpath%3E%3Cpath stroke-dasharray="8" stroke-dashoffset="8" d="M21 3H15M21 3V9"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" begin="0.9s" dur="0.2s" values="8%3B0"%2F%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E');
 
-$internal-link-svg-big:url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="25" height="25" viewBox="0 0 24 24"%3E%3Cg transform="rotate(180 12 12)"%3E%3Cg fill="none" stroke="%23a495df" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"%3E%3Cpath stroke-dasharray="36" stroke-dashoffset="36" d="M12 5C8.13401 5 5 8.13401 5 12C5 15.866 8.13401 19 12 19C15.866 19 19 15.866 19 12"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" dur="0.6s" values="36%3B0"%2F%3E%3C%2Fpath%3E%3Cpath stroke-dasharray="12" stroke-dashoffset="12" d="M13 11L20 4"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" begin="0.6s" dur="0.3s" values="12%3B0"%2F%3E%3C%2Fpath%3E%3Cpath stroke-dasharray="8" stroke-dashoffset="8" d="M21 3H15M21 3V9"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" begin="0.9s" dur="0.2s" values="8%3B0"%2F%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E');
+$internal-link-svg-big: url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg" width="25" height="25" viewBox="0 0 24 24"%3E%3Cg transform="rotate(180 12 12)"%3E%3Cg fill="none" stroke="%23a495df" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"%3E%3Cpath stroke-dasharray="36" stroke-dashoffset="36" d="M12 5C8.13401 5 5 8.13401 5 12C5 15.866 8.13401 19 12 19C15.866 19 19 15.866 19 12"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" dur="0.6s" values="36%3B0"%2F%3E%3C%2Fpath%3E%3Cpath stroke-dasharray="12" stroke-dashoffset="12" d="M13 11L20 4"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" begin="0.6s" dur="0.3s" values="12%3B0"%2F%3E%3C%2Fpath%3E%3Cpath stroke-dasharray="8" stroke-dashoffset="8" d="M21 3H15M21 3V9"%3E%3Canimate fill="freeze" attributeName="stroke-dashoffset" begin="0.9s" dur="0.2s" values="8%3B0"%2F%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E');
 
 $internal-link-underline: 0.25rem solid #a495df;
-$external-link-underline: 0.15rem solid #788ae3 ;
+$external-link-underline: 0.15rem solid #788ae3;
 
-
-h1{
-    font-weight: bold;
-    &.page-title{
-        a{
-            
-            span{padding-left: 0.5rem;}
-        
-            #flowerBlue{
-                color: #788ae3 !important;
-            }
-            &:hover #flowerBlue{
-                color: #efb3db !important;
-            }
-            #flowerRose{
-                color: #efb3db !important;
-            }
-            &:hover #flowerRose{
-                color: #788ae3 !important;
-            }
-            #flowerGarden{
-                color: #8fd482 !important;
-            }
-            &:hover  span#flowerGarden{
-                color: #a495df !important;
-            }
-            #flowerWitch{
-                color: #a495df !important;
-            }
-            &:hover  #flowerWitch{
-                color: #8fd482 !important;
-            }
-        }
-    }
-}
-
-article, footer, h2, h3, h4, h5, h6{
+h1 {
+  font-weight: bold;
+  &.page-title {
     a {
-        transition: border-bottom-width 0.2s ease;
-        &.internal {
-            background-color: rgb(203, 202, 204, 12%);
-            color:#a495df;
-            &::before{
-                content: $internal-link-svg;
-            }
-            border-bottom: $internal-link-underline;
-            &:hover{
-                border-bottom-width: 0.10rem;
-            }
-        }
-        &.external{
-            &::after{
-                content: $external-link-svg;
-            }
-            border-radius: 0;
-            border-bottom: $external-link-underline;
-        }
+      span {
+        padding-left: 0.5rem;
+      }
+
+      #flowerBlue {
+        color: #788ae3 !important;
+      }
+      &:hover #flowerBlue {
+        color: #efb3db !important;
+      }
+      #flowerRose {
+        color: #efb3db !important;
+      }
+      &:hover #flowerRose {
+        color: #788ae3 !important;
+      }
+      #flowerGarden {
+        color: #8fd482 !important;
+      }
+      &:hover span#flowerGarden {
+        color: #a495df !important;
+      }
+      #flowerWitch {
+        color: #a495df !important;
+      }
+      &:hover #flowerWitch {
+        color: #8fd482 !important;
+      }
     }
+  }
 }
 
-a.tag-link{
-    background-color: rgb(203, 202, 204, 12%) !important;
-    color: #a495df;
+article,
+footer,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  a {
+    transition: border-bottom-width 0.2s ease;
+    &.internal {
+      background-color: rgb(203, 202, 204, 12%);
+      color: #a495df;
+      &::before {
+        content: $internal-link-svg;
+      }
+      border-bottom: $internal-link-underline;
+      &:hover {
+        border-bottom-width: 0.1rem;
+      }
+    }
+    &.external {
+      &::after {
+        content: $external-link-svg;
+      }
+      border-radius: 0;
+      border-bottom: $external-link-underline;
+    }
+  }
 }
 
-h2, h3, h4, h5, h6 {
-    a{
-        &.internal {
-            &::before{
-                content: $internal-link-svg-big;
-            }
-        }
-        &.external{
-            &::after{
-                content: $external-link-svg-big;
-            }
-        }
-        &:last-of-type{
-            &::before {
-                content: none;
-            }
-            &::after {
-                content: none;
-            }
-            border-bottom: none;
-            color: black;
-        }
-        border-bottom: none;
+a.tag-link {
+  background-color: rgb(203, 202, 204, 12%) !important;
+  color: #a495df;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  a {
+    &.internal {
+      &::before {
+        content: $internal-link-svg-big;
+      }
     }
+    &.external {
+      &::after {
+        content: $external-link-svg-big;
+      }
+    }
+    &:last-of-type {
+      &::before {
+        content: none;
+      }
+      &::after {
+        content: none;
+      }
+      border-bottom: none;
+      color: black;
+    }
+    border-bottom: none;
+  }
 }

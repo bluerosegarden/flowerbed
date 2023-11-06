@@ -19,7 +19,9 @@ export default ((opts?: Options) => {
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
-              <a class="external" href={link}>{text}</a>
+              <a class="external" href={link}>
+                {text}
+              </a>
             </li>
           ))}
         </ul>
