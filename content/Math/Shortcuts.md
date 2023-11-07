@@ -8,9 +8,11 @@ This is where I'll have various shortcuts.
 ## Quickly Foil $(x-b)^2$
 If you have something like this
 
-$$\begin{align}
+$$
+\begin{align}
 (x-8)^2 \\ 
-\end{align}$$
+\end{align}
+$$
 Instead of manually FOILing it out, you can just do this:
 First, be sure to keep the b's sign the same when doubling it, weird I know!
 $$
