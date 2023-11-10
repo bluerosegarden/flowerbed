@@ -62,6 +62,39 @@ There are a few different ways you can solve logarithm problems when the x varia
 
 However, remember that if the original problem was a $log$ then **x cannot be** $x <= 0$
 
+### Special Cases
+Since logs are exponents, there are a few special cases when it comes to solving them.
+
+#### A log of 1 equals zero
+If you take the log of 1, it always equals zero no matter the base. This is because any number raised to 0 equals 1!
+$$
+\begin{align}
+\log_41&=0\\
+4^0&=1
+\end{align}
+$$
+#### A log that matches the base equals 1
+This is because the only exponent that results in the same number, is 1, virtually no exponent!
+
+$$
+\begin{align}
+\log10&=1\\
+10^1&=10\\
+&\downarrow\\
+10&=10
+\end{align}
+$$
+
+Same goes for $\ln$ and $e$
+$$
+\begin{align}
+\ln e&=1\\
+e^1&=e\\
+&\downarrow\\
+e&=e
+\end{align}
+$$
+
 ### Set bases to be the same
 If both sides of the equation are able to be rewritten so the bases are the same, you can set them to the same
 $$
@@ -97,6 +130,9 @@ $$
 10^3&=2x+1
 \end{align}
 $$
+> [!warning] 
+> If the problem was originally an exponent and *you* converted it into a logarithm, it's totally ok if the one of the solutions results in a negative log nor zero. However, **if the original problem is a logarithm then it cannot be a negative.**
+> Example, $\log -3$ is incorrect. However $10^{-3}$ is totally fine! 
 ### Log both sides first
 Sometimes (especially if you have an $e$) simply taking the log of both sides is the easiest way to simplify it, because it removes it!
 
@@ -104,7 +140,7 @@ $$
 \begin{align}
 e^{x+1}&=2 \\
 &\downarrow\\
-\ln(e^{x+1})&=\ln(2)\\
+\cancel\ln(\cancel{e}^{x+1})&=\ln(2)\\
 &\downarrow\\
 x+1&=0.69314718056
 \end{align}
@@ -119,3 +155,4 @@ $$
 2x+1&=3x+6
 \end{align}
 $$
+
