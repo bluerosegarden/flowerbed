@@ -56,23 +56,25 @@ h1 {
 }
 
 // ✿ ✽ ❀ 
-h2{
-  &::before{
-    content: "✿";
+article{
+  h2{
+    &::before{
+      content: "✿";
+    }
+    color: $rose;
   }
-  color: $rose;
-}
-h3{
-  &::before{
-    content: "✽";
+  h3{
+    &::before{
+      content: "✽";
+    }
+    color: $garden;
+  } 
+  h4{
+    &::before{
+      content: "❀";
+    }
+    color: $rose;
   }
-  color: $garden;
-}
-h4{
-  &::before{
-    content: "❀";
-  }
-  color: $rose;
 }
 
 article,
