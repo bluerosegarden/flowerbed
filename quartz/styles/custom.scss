@@ -14,6 +14,11 @@ $internal-link-svg-big: url('data:image/svg+xml,%3Csvg xmlns="http%3A%2F%2Fwww.w
 $internal-link-underline: 0.25rem solid #a495df;
 $external-link-underline: 0.15rem solid #788ae3;
 
+$blue: #788ae3;
+$rose: #efb3db;
+$garden: #8fd482;
+$witch: #a495df;
+
 h1 {
   font-weight: bold;
   &.page-title {
@@ -48,6 +53,16 @@ h1 {
       }
     }
   }
+}
+
+h2{
+  color: $rose;
+}
+h3{
+  color: $garden;
+}
+h4{
+  color: $rose;
 }
 
 article,
