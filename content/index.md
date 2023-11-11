@@ -21,4 +21,5 @@ Here are some starting paths:
 - [[Linguistics|Linguistics]]
 - [[Japanese|Japanese]]
 - [[Goals|Goals]]
+- [[Using Quartz & Github Publisher|Using Quartz & Github Publisher]]
 - [[tags|Tags]]
