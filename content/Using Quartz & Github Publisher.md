@@ -18,6 +18,7 @@ This guide assumes you have both run through the quartz setup and [configured a 
 	4. Enter **the branch** your digital garden lives on (which is **v4** by default)
 	5. Toggle **Automatically Merge Pull Requests** to **on**
 4. Next, in the **upload config** tab, set file tree option to **Obsidian Path** and the root folder to **content**
+5. Finally, under the **Plugin Settings** tab, set the share key to **publish** if you are using the filter plugin ExplicitPublish
 - (Optional) If you use dataview, in the **Text & Link Converters** tab toggle the **Dataview** option
 - (optional) in the **Plugin Settings** tab, turn on **Copy Link** and set **Base Link** to your site's domain!
 
