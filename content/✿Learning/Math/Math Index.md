@@ -2,6 +2,7 @@
 publish: true
 dg-pinned: false
 ---
+
 These are going to be all of my notes on math, ones that work specifically for me but may work for you
 
 ## Resources 

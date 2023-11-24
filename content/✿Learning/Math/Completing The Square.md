@@ -1,6 +1,7 @@
 ---
 publish: true
 ---
+
 Sometimes it's easier to modify an equation so it becomes a full quadradic equation.
 
 Take the following:
