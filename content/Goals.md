@@ -3,6 +3,7 @@ publish: true
 tags:
   - personal
 ---
+
 A place for me to just talk off the cuff about my personal goals and plans. 
 
 ## Winter Break 2023
@@ -11,6 +12,8 @@ A place for me to just talk off the cuff about my personal goals and plans.
 	- Read and practice [The artist's way](https://en.wikipedia.org/wiki/The_Artist%27s_Way)
 - Learn [[Typescript|Typescript]]
 	- I already know a lot of Javascript!
+- Learn Processing and do some [[creative coding|creative coding]]
+	- [Looks like a great video about it](https://youtu.be/4JzDttgdILQ)
 - Make EXEdeus
 	- Will be made with [[Godot|Godot]]
 	- A PWA app with most (if not all) local running
