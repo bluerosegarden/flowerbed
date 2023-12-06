@@ -120,3 +120,15 @@ This is determined by whether or not the **leading coefficient** is **positive o
 ### Determine the intervals on which the function is increasing and/or decreasing
 ### Find the domain
 #### Find the range 
+
+
+## Synthetic division
+given this equation
+$$
+3x^3+17x^2+12x-6
+$$
+You can find all the real zeros by first either checking it by calc and picking one of the x intercepts, or listing all the possible zeroes by dividing the factors o the leading coefficient by the factors of the constant! Once you have one zero use synthetic division to keep reducing it until it's a quadratic equation! 
+$$
+\begin{array}{c|rrr}&3&17&12&-6\\\frac{1}{3}&&1&6&6\\\hline\\&3&18&18&0\\\end{array}
+
+$$
