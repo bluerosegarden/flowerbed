@@ -1,7 +1,5 @@
 ---
 publish: true
-dg-home: false
-dg-pinned: false
 title: The Pathway into the Hedges
 ---
 
