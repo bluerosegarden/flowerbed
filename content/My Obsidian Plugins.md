@@ -60,3 +60,7 @@ This is an absolutely gigantic list of obsidian plugins I use. I need to cull a 
 [obsidian://show-plugin?id=writing-goals](obsidian://show-plugin?id=writing-goals)
 [obsidian://show-plugin?id=typing](obsidian://show-plugin?id=typing)
 [obsidian://show-plugin?id=typewriter-mode](obsidian://show-plugin?id=typewriter-mode)
+[obsidian://show-plugin?id=file-explorer-plus](obsidian://show-plugin?id=file-explorer-plus)
+
+[obsidian://show-plugin?id=helpmate](obsidian://show-plugin?id=helpmate)
+[obsidian://show-plugin?id=incomplete-files](obsidian://show-plugin?id=incomplete-files)
