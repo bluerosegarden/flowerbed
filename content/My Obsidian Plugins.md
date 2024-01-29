@@ -1,6 +1,7 @@
 ---  
 publish: true  
 ---  
+  
 This is an absolutely gigantic list of obsidian plugins I use. I need to cull a lot and organize what I consider Must Haves and just Fun, but that's for another day!  
   
 [obsidian://show-plugin?id=at-symbol-linking](obsidian://show-plugin?id=at-symbol-linking)  
