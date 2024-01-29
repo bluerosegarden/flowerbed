@@ -4,6 +4,7 @@ title: The Pathway into the Hedges
 slug: index  
 ---  
   
+  
 Welcome to my digital garden: The Flowerbed. A multi layered and sporadically growing hedgemaze of musings and curiosities.  
   
 If you've never heard of a digital garden before, check out [[digital garden resources|this page]] for links to articles and resources.  
