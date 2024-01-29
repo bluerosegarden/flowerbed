@@ -3,6 +3,7 @@ publish: true
 tags:  
   - personal  
 ---  
+  
 A place for me to just talk off the cuff about my personal goals and plans.   
   
 ## Winter Break 2023  

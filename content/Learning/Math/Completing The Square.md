@@ -1,6 +1,7 @@
 ---  
 publish: true  
 ---  
+  
 Sometimes it's easier to modify an equation so it becomes a full quadradic equation.  
   
 Take the following:  
@@ -8,6 +9,7 @@ Take the following:
 $$  
 x^2+8x+11=0  
 $$  
+  
 As it is this is not factorable, and while you can use quadratic method instead, you can force it to be factorable!  
   
 You can do this whenever the b term is *even*, this will not work if b term is *odd*.  

@@ -1,6 +1,7 @@
 ---  
 publish: true  
 ---  
+  
 Take the following graph  
 ![[drawing functions 2.svg|drawing functions 2.svg]]  
   

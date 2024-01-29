@@ -1,6 +1,7 @@
 ---  
 publish: true  
 ---  
+  
 ## Inverse Functions  
   
 It's possible for a function to have an inverse function. in order for there to be an inverse function, the base function must satisfy the **horizontal test**, meaning for every $y$ value, theres only one possible $x$ value. Because if that, each pair of numbers must not repeat.   
