@@ -4,6 +4,7 @@ summary:
 id: ♧✤✷🌻✽🏵❋❉🏵  
 publish: true  
 ---  
+  
 Hoo boy. This is a gigantic collection of links to sites to learn stuff or just have interesting resources. This was made before I spun up my [public bookmarks site](https://bookmarks.blurose.garden), and these could (and should) be moved there, but for now enjoy this page while you can!  
 # Coding   
 ## web  
