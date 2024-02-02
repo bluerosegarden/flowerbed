@@ -3,6 +3,7 @@ publish: true
 tags:  
   - math/Trigonometry  
 slug: index  
+title: Trigonometry  
 ---  
   
   
