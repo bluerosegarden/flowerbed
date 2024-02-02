@@ -2,7 +2,7 @@
 publish: true  
 tags:  
   - math/Trigonometry  
-slug: _Index  
+slug: _index  
 title: Trigonometry  
 ---  
   
