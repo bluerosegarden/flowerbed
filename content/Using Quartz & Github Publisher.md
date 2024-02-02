@@ -23,4 +23,8 @@ This guide assumes you have both run through the quartz setup and [configured a 
 - (Optional) If you use dataview, in the **Text & Link Converters** tab toggle the **Dataview** option  
 - (optional) in the **Plugin Settings** tab, turn on **Copy Link** and set **Base Link** to your site's domain!  
   
-And that's it! Now just run **Github Publisher: Upload all shared notes** and wait for the deployment to build! There are many other settings you can apply, such as automatically [renaming a file or path](https://obsidian-publisher.netlify.app/plugin/settings/upload/?h=edit#regex-on-filename-folder-path) (I use this for my index.md!) To explore all of your options, [check out the plugin's documentation](https://obsidian-publisher.netlify.app/)
+And that's it! Now just run **Github Publisher: Upload all shared notes** and wait for the deployment to build! There are many other settings you can apply, such as automatically [renaming a file or path](https://obsidian-publisher.netlify.app/plugin/settings/upload/?h=edit#regex-on-filename-folder-path) (I use this for my index.md!) To explore all of your options, [check out the plugin's documentation](https://obsidian-publisher.netlify.app/)  
+  
+## FAQ  
+- Q: publishing doesn't work! I get a `httperror: not found`  
+	- A: make sure you don't have a VPN on! sometimes that can cause http issues (but not all the time)
