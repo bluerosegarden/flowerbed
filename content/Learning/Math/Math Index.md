@@ -21,7 +21,7 @@ These are going to be all of my notes on math, ones that work specifically for m
 - [[Completing The Square|Completing The Square]]  
 - [[Big Unorganized Math Notes|Big Unorganized Math Notes]]  
 - [[Logarithms|Logarithms]]  
-- [[Math/Trigonometry|Trigonometry Index]]  
+- [[Trigonometry Index|Trigonometry Index]]  
   
   
   
