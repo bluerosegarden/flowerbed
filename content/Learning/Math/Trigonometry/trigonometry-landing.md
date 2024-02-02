@@ -2,8 +2,8 @@
 publish: true  
 tags:  
   - math/Trigonometry  
-slug:   
-title: Trigonometry  
+slug: trigonometry-landing  
+title: Trigonometry Landing  
 ---  
   
   
@@ -16,6 +16,7 @@ title: Trigonometry
 ![[triangles-001.svg|triangles-001.svg]]  
 - Hypotenuse is the longest side of a triangle, used in [[Trigonometry Index#Right Triangle Trigonometry|Right Triangle Trigonometry]]  
 - opposite is the opposite side of the triangle, while adjacent is the side next to the point that isn't the hypotenuse  
+- $\theta$ (theta) is the variable for angle. You could also use the angle symbol $\angle$ when referring to a angle named something else (such as $\angle B$)  
   
   
 ## Properties of triangles  
@@ -24,9 +25,9 @@ title: Trigonometry
 ## Six Trig Functions (Soh-Cah-Toa) and their reciprocals  
 | function | reciprocal |  
 | ---- | ---- |  
-| $\sin() = \frac{opposite}{hypotenuse}$ | $\csc()= \frac{hypotenuse}{opposite}$ |  
-| $cos() = \frac{adjacent}{hypotenuse}$ | $\sec()=\frac{hypotenuse}{adjacent}$ |  
-| $\tan()=\frac{opposite}{adjacent}$ | $\cot()=\frac{adjacent}{opposite}$ |  
+| $\sin\theta = \frac{opposite}{hypotenuse}$ | $\csc\theta= \frac{hypotenuse}{opposite}$ |  
+| $\cos\theta = \frac{adjacent}{hypotenuse}$ | $\sec\theta=\frac{hypotenuse}{adjacent}$ |  
+| $\tan\theta=\frac{opposite}{adjacent}$ | $\cot\theta=\frac{adjacent}{opposite}$ |  
   
 These are always in relation to a specific point. Take below:  
   
@@ -36,8 +37,8 @@ For all angles of this right-angled triangle, the above would be:
   
 |  | $\sin(\theta)$ | $\cos(\theta)$ | $\tan(\theta)$ | $\sec(\theta)$ | $\csc(\theta)$ | $\cot(\theta)$ |  
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  
-| A | $\frac{a}{c}$ | $\frac{b}{c}$ | $\frac{a}{b}$ | $\frac{c}{b}$ | $\frac{c}{a}$ | $\frac{b}{a}$ |  
-| B | $\frac{b}{c}$ | $\frac{a}{c}$ | $\frac{b}{a}$ | $\frac{c}{a}$ | $\frac{c}{b}$ | $\frac{a}{b}$ |  
-| C | $\frac{c}{c}$ | ? | ? | ? | $\frac{c}{c}$ | ? |  
+| $\theta=A$ | $\frac{a}{c}$ | $\frac{b}{c}$ | $\frac{a}{b}$ | $\frac{c}{b}$ | $\frac{c}{a}$ | $\frac{b}{a}$ |  
+| $\theta=B$ | $\frac{b}{c}$ | $\frac{a}{c}$ | $\frac{b}{a}$ | $\frac{c}{a}$ | $\frac{c}{b}$ | $\frac{a}{b}$ |  
+| $\theta=C$ | $\frac{c}{c}$ | ? | ? | ? | $\frac{c}{c}$ | ? |  
   
   

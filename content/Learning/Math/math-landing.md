@@ -1,5 +1,7 @@
 ---  
 publish: true  
+slug: math-landing  
+title: Math Landing  
 ---  
   
 These are going to be all of my notes on math, ones that work specifically for me but may work for you  
