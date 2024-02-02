@@ -7,7 +7,7 @@ For every trigonometry diagram I make, I will include its code here!
 ## 45-45-90 triangle  
    
    
- ![[triangles3.svg|triangles3.svg]]  
+ ![[triangles-003.svg|triangles-003.svg]]  
    
  ```latex  
  \documentclass[12pt, tikz, border=5mm]{standalone}    
@@ -46,7 +46,7 @@ For every trigonometry diagram I make, I will include its code here!
   
 ## 30-60-90 triangle  
    
- ![[triangles2.svg|triangles2.svg]]  
+ ![[triangles-004.svg|triangles-004.svg]]  
    
 ```latex  
  \documentclass[12pt, tikz, border=5mm]{standalone}    
