@@ -18,12 +18,12 @@ These are going to be all of my notes on math, ones that work specifically for m
 	- Python library for animating math. Used by the likes of [3blue1brown](https://youtube.com/@3blue1brown?si=EvEK9JgeDwFAPkSk)  
   
 ## Paths  
-- [[Shortcuts|Shortcuts]]  
-- [[Absolute Values in Algebra|Absolute Values in Algebra]]  
-- [[Completing The Square|Completing The Square]]  
-- [[Big Unorganized Math Notes|Big Unorganized Math Notes]]  
-- [[Logarithms|Logarithms]]  
-- [[Trigonometry Index|Trigonometry Index]]  
+- [[./Shortcuts|Shortcuts]]  
+- [[./Absolute Values in Algebra|Absolute Values in Algebra]]  
+- [[./Completing The Square|Completing The Square]]  
+- [[./Big Unorganized Math Notes|Big Unorganized Math Notes]]  
+- [[./Logarithms|Logarithms]]  
+- [[./Trigonometry/trigonometry-landing|trigonometry-landing]]  
   
   
   
