@@ -24,4 +24,4 @@ Also, if you have the point $(a,b)$ on on function, on the mirrored function you
   
   
 > [!note] Graph  
-> ![[../../attachments/Inverse Functions 2.svg|Inverse Functions 2.svg]]  
+> ![[Inverse Functions 2.svg|Inverse Functions 2.svg]]  
