@@ -114,10 +114,6 @@ h6 {
       }
     }
     &.external {
-      &::after {
-        content: $external-link-svg;
-        white-space: nowrap;
-      }
       border-radius: 0;
       border-bottom: $external-link-underline;
     }
@@ -140,11 +136,7 @@ h6 {
         content: $internal-link-svg-big;
       }
     }
-    &.external {
-      &::after {
-        content: $external-link-svg-big;
-      }
-    }
+
     &:last-of-type {
       &::before {
         content: none;
