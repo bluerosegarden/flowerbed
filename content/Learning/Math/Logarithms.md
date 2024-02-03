@@ -9,7 +9,7 @@ Logarithms are weird.
   
 Logarithms are really, *really* weird.   
   
-They have lots of properties that are similar to both functions and variables, but they aren't either. They're lying to you. They're *[[./Exponents|Exponents]]*!  
+They have lots of properties that are similar to both functions and variables, but they aren't either. They're lying to you. They're *[[Exponents|Exponents]]*!  
   
 ## Logarithms basics   
 At its core, a logarithm is the inverse of the following exponential function:  

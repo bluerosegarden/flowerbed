@@ -4,7 +4,7 @@ tags:
   - learning  
 ---  
   
-I am fascinated by language and the ways they evolve and the forms they take. While I mainly want to study linguistics in order to better help me learn [[./Japanese|Japanese]], I would love to develop a conlang or two with it.   
+I am fascinated by language and the ways they evolve and the forms they take. While I mainly want to study linguistics in order to better help me learn [[Japanese|Japanese]], I would love to develop a conlang or two with it.   
   
 ## Resources  
 ### Sites  
