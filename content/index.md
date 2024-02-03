@@ -18,7 +18,7 @@ Now go forth and explore some of the winding paths that lay before you. Use the 
 Here are some starting paths:  
   
 ## Path Forks  
-- [[Math Index|Math]]  
+- [[Math Landing|Math]]  
 - [[Books|Books]]  
 - [[Linguistics|Linguistics]]  
 - [[Japanese|Japanese]]  
