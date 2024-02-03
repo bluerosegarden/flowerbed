@@ -8,7 +8,7 @@ Below are all my local snippets. Mostly just little notes to myself so I don't g
   
 | File                                                                                         | codelang |  
 | -------------------------------------------------------------------------------------------- | -------- |  
-| [[❀Code/Snippets/CODE-1 Read File to String in rust.md\|CODE-1 Read File to String in rust]] | Rust     |  
+| [[./CODE-1 Read File to String in rust\|CODE-1 Read File to String in rust]] | Rust     |  
   
   
   
