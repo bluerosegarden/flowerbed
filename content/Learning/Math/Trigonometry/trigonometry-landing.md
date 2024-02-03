@@ -3,7 +3,7 @@ publish: true
 tags:  
   - math/Trigonometry  
 slug: trigonometry-landing  
-title: Trigonometry Landing  
+title: ★ Trigonometry Landing  
 ---  
   
   
