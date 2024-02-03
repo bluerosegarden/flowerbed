@@ -5,7 +5,7 @@ publish: true
   
 ## Languages & Frameworks  
 [[Rustlang|Rust]]  
-[[./Code/Svelte|Svelte]] / [[./Code/Svelte#Sveltekit|Sveltekit]]  
+[[Svelte|Svelte]] / [[Svelte#Sveltekit|Sveltekit]]  
 Godot  
   
 ## Software  
