@@ -15,4 +15,4 @@ A place for me to talk about books.
 - Six of Crows Duology  
   
 ## Path Forks  
-- [[./Textbook Collection|Textbook Collection]]
+- [[Textbook Collection|Textbook Collection]]
