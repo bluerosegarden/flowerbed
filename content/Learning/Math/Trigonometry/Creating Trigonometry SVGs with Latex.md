@@ -9,7 +9,7 @@ After spending way too much time I figured out how to create triangles with tikz
   
   
   
-![[triangles-001.svg|triangles-001.svg]]  
+![[../../../triangles-001.svg|triangles-001]]  
   
   
 - Install MikTex and Texstudio  
