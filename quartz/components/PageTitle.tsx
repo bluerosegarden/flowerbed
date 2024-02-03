@@ -1,5 +1,6 @@
 import { pathToRoot } from "../util/path"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { classNames } from "../util/lang"
 
 function PageTitle({ fileData, cfg, displayClass }: QuartzComponentProps) {
   const title = cfg?.pageTitle ?? "Untitled Quartz"
@@ -17,7 +18,7 @@ function PageTitle({ fileData, cfg, displayClass }: QuartzComponentProps) {
   const flowerPictogramIndex = Math.floor(Math.random() * 3)
   const flowerIndex = Math.floor(Math.random() * 3)
   return (
-    <h1 class={`page-title ${displayClass ?? ""}`}>
+    <h1 class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>
         {title}
         <span id={flowers[flowerIndex][0]}>{flowerPictograms[flowerPictogramIndex][0]}</span>
