@@ -114,14 +114,14 @@ h6 {
       }
     }
     &.external {
+      &::after {
+        content: $external-link-svg;
+        white-space: nowrap;
+      }
       border-radius: 0;
       border-bottom: $external-link-underline;
     }
   }
-}
-svg.external-icon{
-  height: 1.4ex !important;
-  fill:$blue !important;
 }
 
 a.tag-link {
@@ -140,7 +140,11 @@ h6 {
         content: $internal-link-svg-big;
       }
     }
-
+    &.external {
+      &::after {
+        content: $external-link-svg-big;
+      }
+    }
     &:last-of-type {
       &::before {
         content: none;
