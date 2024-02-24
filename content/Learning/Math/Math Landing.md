@@ -2,7 +2,6 @@
 publish: true  
 title: ✿ Math Landing  
 ---  
-  
 These are going to be all of my notes on math, ones that work specifically for me but may work for you  
   
 > A math meme that is funny rather than stupid: Solve carefully! 230 - 220 x 0.5 = You probably won't believe it, but the answer is 5!  
