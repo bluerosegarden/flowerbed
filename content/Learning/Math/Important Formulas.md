@@ -4,7 +4,6 @@ tags:
   - math  
 ---  
   
-  
 ## Quadratic formula  
 The classic  
 $$  
