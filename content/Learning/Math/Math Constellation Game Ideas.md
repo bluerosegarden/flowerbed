@@ -5,7 +5,6 @@ tags:
   - programming  
   - learning  
 ---  
-  
 A game where you recreate a constellation using as few functions as possible   
   
 Other ideas: the normal get problems to solve to reveal points for a map. Maybe ask teacher for help  
