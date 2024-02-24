@@ -1,7 +1,6 @@
 ---  
 publish: true  
 ---  
-  
 For every trigonometry diagram I make, I will include its code here!   
   
 ## Basic Right-Triangle diagram  
