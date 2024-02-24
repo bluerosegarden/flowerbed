@@ -2,7 +2,6 @@
 publish: true  
 ---  
   
-  
 ## cin.ignore()  
 If you mix cin and getline(), you need to include cin.ignore() before getline()  
   
