@@ -4,7 +4,6 @@ tags:
   - math/Trigonometry  
   - guide  
 ---  
-  
 After spending way too much time I figured out how to create triangles with tikz like the following!  
   
   

@@ -3,7 +3,6 @@ tags:
   - personal  
 publish: true  
 ---  
-  
 A place for me to talk about books.   
   
 ## Favorite books  

@@ -4,7 +4,6 @@ tags:
   - learning  
   - school  
 ---  
-  
 Logarithms are weird.  
   
 Logarithms are really, *really* weird.   
