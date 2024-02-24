@@ -3,7 +3,6 @@ publish: true
 ---  
   
   
-  
 This is where I'll have various shortcuts.  
   
 ## Quickly Foil $(x-b)^2$  
