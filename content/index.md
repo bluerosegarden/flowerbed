@@ -18,6 +18,7 @@ Here are some starting paths:
   
 ## Path Forks  
 - [[Math Landing|Math]]  
+- [[CLI Resources|CLI Resources]]  
 - [[Books|Books]]  
 - [[Linguistics|Linguistics]]  
 - [[Japanese|Japanese]]  
