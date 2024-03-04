@@ -23,5 +23,3 @@ These are going to be all of my notes on math, ones that work specifically for m
 - [[Logarithms|Logarithms]]  
 - [[Trigonometry Landing|Trigonometry Landing]]  
   
-  
-  
