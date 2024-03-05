@@ -10,4 +10,4 @@ After creating this, I recognized a pattern that I think can be best described w
   
 ![[shorthand 2.svg|shorthand 2.svg]]  
 Which I will reduce down to this when I write this when using the Unit circle  
-![[Drawing 2024-03-03 17.16.01.excalidraw.svg|Drawing 2024-03-03 17.16.01.excalidraw.svg]]
+![[Quick SHorthand.svg|Quick SHorthand.svg]]
