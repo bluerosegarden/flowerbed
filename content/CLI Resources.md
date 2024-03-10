@@ -1,7 +1,8 @@
 ---  
 publish: true  
 ---  
-I'm gonna add more stuff in here but yeah  
+I'm gonna add more stuff in here but yeah[^1]  
+  
   
 ## Learning  
   
@@ -13,3 +14,5 @@ If you want to learn CLI, I found these games interesting from this [youtube sho
 	- [The Paper about it's creation is here](http://web.mit.edu/mprat/Public/web/Terminus/Java/CMS.590Game2FinalReport.pdf)  
 - [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl)  
 - [CLI-Mystery](https://github.com/veltman/clmystery)  
+  
+[^1]: This may be a lie/
