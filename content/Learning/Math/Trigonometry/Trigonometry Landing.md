@@ -2,19 +2,18 @@
 publish: true  
 tags:  
   - math/Trigonometry  
-slug: trigonometry-landing  
-title: ★ Trigonometry Landing  
+title: ✿ Trigonometry Landing  
 ---  
-  
   
 ## Path forks  
 - [[Creating Trigonometry SVGs with Latex|Creating Trigonometry SVGs with Latex]]  
 - [[Latex Code for Trigonometry diagrams|Latex Code for Trigonometry diagrams]]  
+- [[My Unit Circle|My Unit Circle]]  
   
 ## Glossary  
 ### Sides of triangle  
 ![[triangles-001.svg|triangles-001.svg]]  
-- Hypotenuse is the longest side of a triangle, used in [[Trigonometry Index#Right Triangle Trigonometry|Right Triangle Trigonometry]]  
+- Hypotenuse is the longest side of a triangle, used in [[Trigonometry Landing#Right Triangle Trigonometry|Right Triangle Trigonometry]]  
 - opposite is the opposite side of the triangle, while adjacent is the side next to the point that isn't the hypotenuse  
 - $\theta$ (theta) is the variable for angle. You could also use the angle symbol $\angle$ when referring to a angle named something else (such as $\angle B$)  
   

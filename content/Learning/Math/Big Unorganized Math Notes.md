@@ -2,7 +2,6 @@
 publish: true  
 ---  
   
-  
 Turns out making specific pages for each note has been bad for me actually making notes, so here I'm just gonna spam all the notes without much explaining. I'll spin em off into their own notes later, or not, we'll see lmao  
   
 ## Polynomial functions  
