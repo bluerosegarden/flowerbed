@@ -22,6 +22,7 @@ const config: QuartzConfig = {
       "!(*.md|vercel.json)",
     ],
     defaultDateType: "created",
+    displayDateType:["created","modified"],
     theme: {
       typography: {
         header: "Comfortaa",
