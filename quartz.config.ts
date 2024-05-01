@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "flowerbed.bluerose.garden", //**/!(*.md)   **/!(attachments)/!(*.md)    !(attachments)/!(*.md)
+    baseUrl: "flowerbed.bluerose.garden",
     ignorePatterns: [
       "private",
       "**/__Templates",
@@ -27,7 +27,7 @@ const config: QuartzConfig = {
       "!(*.md|vercel.json)",
     ],
     defaultDateType: "created",
-    displayDateType:["created","modified"],
+    displayDateType: ["created", "modified"],
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -59,6 +59,7 @@ const config: QuartzConfig = {
         },
       },
     },
+    locale: "en-US"
   },
   plugins: {
     transformers: [
