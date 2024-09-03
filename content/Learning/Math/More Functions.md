@@ -1,6 +1,6 @@
----  
-publish: true  
----  
+---
+publish: true
+---
 ## Inverse Functions  
   
 It's possible for a function to have an inverse function. in order for there to be an inverse function, the base function must satisfy the **horizontal test**, meaning for every $y$ value, theres only one possible $x$ value. Because if that, each pair of numbers must not repeat.   
@@ -23,4 +23,4 @@ Also, if you have the point $(a,b)$ on on function, on the mirrored function you
   
   
 > [!note] Graph  
-> ![[Inverse Functions 2.svg|Inverse Functions 2.svg]]  
+> ![[../../attachments/Inverse Functions 2.svg|Inverse Functions 2.svg]]  
