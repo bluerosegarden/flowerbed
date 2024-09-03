@@ -1,14 +1,14 @@
----  
-publish: true  
-tags:  
-  - learning  
-  - school  
----  
+---
+publish: true
+tags:
+  - learning
+  - school
+---
 Logarithms are weird.  
   
 Logarithms are really, *really* weird.   
   
-They have lots of properties that are similar to both functions and variables, but they aren't either. They're lying to you. They're *[[Exponents|Exponents]]*!  
+They have lots of properties that are similar to both functions and variables, but they aren't either. They're lying to you. They're *[[./Exponents|Exponents]]*!  
   
 ## Logarithms basics   
 At its core, a logarithm is the inverse of the following exponential function:  
@@ -42,11 +42,11 @@ When adding, subtracting, dividing, or even exponentially increasing logarithms,
 Because of that, they behave like exponents when they interact with each other!  
   
 $$  
-\begin{align}  
+\begin{align*}  
 \log(w \cdot n)&=\log w+ \log n \\  
 \log(\frac{w}{n})&=\log w-\log n \\  
 \log w^n&=n\cdot \log w  
-\end{align}  
+\end{align*}  
 $$  
   
 But the *really* weird bit about logarithms is how if you want to evaluate a logarithm that isn't base 10, you can use the change of base formula and you get the answer, no extra steps needed!!  
@@ -87,12 +87,12 @@ $$
   
 Same goes for $\ln$ and $e$  
 $$  
-\begin{align}  
+\begin{align*}  
 \ln e&=1\\  
 e^1&=e\\  
 &\downarrow\\  
 e&=e  
-\end{align}  
+\end{align*}  
 $$  
   
 ### Set bases to be the same  
