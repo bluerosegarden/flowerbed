@@ -1,12 +1,20 @@
----  
-tags: []  
-summary:   
-id: ♧✤✷🌻✽🏵❋❉🏵  
-publish: true  
----  
+---
+tags: []
+summary: 
+id: ♧✤✷🌻✽🏵❋❉🏵
+publish: true
+---
 Hoo boy. This is a gigantic collection of links to sites to learn stuff or just have interesting resources. This was made before I spun up my [public bookmarks site](https://bookmarks.blurose.garden), and these could (and should) be moved there, but for now enjoy this page while you can!  
+  
+# Random  
+  
+important links I think are great resources but I haven't written up anything about   
+  
+https://constraint.systems/  
+  
+https://public.work/  
 # Coding   
-## web  
+## Web  
 ### Books and Guides  
 [learn css layout](https://learnlayout.com/) 🌟  
 [practical typography](https://practicaltypography.com/) 🌟  
