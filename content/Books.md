@@ -1,8 +1,8 @@
----  
-tags:  
-  - personal  
-publish: true  
----  
+---
+tags:
+  - personal
+publish: true
+---
 A place for me to talk about books.   
   
 ## Favorite books  
@@ -14,4 +14,4 @@ A place for me to talk about books.
 - Six of Crows Duology  
   
 ## Path Forks  
-- [[Textbook Collection|Textbook Collection]]
+- [[./Textbook Collection|Textbook Collection]]
