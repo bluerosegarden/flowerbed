@@ -1,18 +1,20 @@
----  
-publish: true  
-tags:  
-  - math/Trigonometry  
-title: ✿ Trigonometry Landing  
----  
+---
+publish: true
+tags:
+  - math/Trigonometry
+title: ✿ Trigonometry Landing
+modified: 2024-05-24T20:17:24-05:00
+---
   
 ## Path forks  
-- [[Creating Trigonometry SVGs with Latex|Creating Trigonometry SVGs with Latex]]  
-- [[Latex Code for Trigonometry diagrams|Latex Code for Trigonometry diagrams]]  
-- [[My Unit Circle|My Unit Circle]]  
+- [[./Creating Trigonometry SVGs with Latex|Creating Trigonometry SVGs with Latex]]  
+- [[./Latex Code for Trigonometry diagrams|Latex Code for Trigonometry diagrams]]  
+- [[./My Unit Circle|My Unit Circle]]  
+- [[./Trigonometry Identities|Trigonometry Identities]]  
   
 ## Glossary  
 ### Sides of triangle  
-![[triangles-001.svg|triangles-001.svg]]  
+![[../../../attachments/triangles-001 1.svg|triangles-001 1.svg]]  
 - Hypotenuse is the longest side of a triangle, used in [[Trigonometry Landing#Right Triangle Trigonometry|Right Triangle Trigonometry]]  
 - opposite is the opposite side of the triangle, while adjacent is the side next to the point that isn't the hypotenuse  
 - $\theta$ (theta) is the variable for angle. You could also use the angle symbol $\angle$ when referring to a angle named something else (such as $\angle B$)  
@@ -30,14 +32,13 @@ title: ✿ Trigonometry Landing
   
 These are always in relation to a specific point. Take below:  
   
-![[triangles-002.svg|triangles-002.svg]]  
+![[../../../attachments/triangles-002 1.svg|triangles-002 1.svg]]  
   
 For all angles of this right-angled triangle, the above would be:  
   
-|  | $\sin(\theta)$ | $\cos(\theta)$ | $\tan(\theta)$ | $\sec(\theta)$ | $\csc(\theta)$ | $\cot(\theta)$ |  
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |  
-| $\theta=A$ | $\frac{a}{c}$ | $\frac{b}{c}$ | $\frac{a}{b}$ | $\frac{c}{b}$ | $\frac{c}{a}$ | $\frac{b}{a}$ |  
-| $\theta=B$ | $\frac{b}{c}$ | $\frac{a}{c}$ | $\frac{b}{a}$ | $\frac{c}{a}$ | $\frac{c}{b}$ | $\frac{a}{b}$ |  
-| $\theta=C$ | $\frac{c}{c}$ | ? | ? | ? | $\frac{c}{c}$ | ? |  
+|            | $\sin(\theta)$ | $\cos(\theta)$ | $\tan(\theta)$ | $\sec(\theta)$ | $\csc(\theta)$ | $\cot(\theta)$ |  
+| ---------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- |  
+| $\theta=A$ | $\frac{a}{c}$  | $\frac{b}{c}$  | $\frac{a}{b}$  | $\frac{c}{b}$  | $\frac{c}{a}$  | $\frac{b}{a}$  |  
+| $\theta=B$ | $\frac{b}{c}$  | $\frac{a}{c}$  | $\frac{b}{a}$  | $\frac{c}{a}$  | $\frac{c}{b}$  | $\frac{a}{b}$  |  
   
   
