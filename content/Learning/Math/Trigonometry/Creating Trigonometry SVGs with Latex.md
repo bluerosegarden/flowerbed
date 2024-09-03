@@ -1,14 +1,14 @@
----  
-publish: true  
-tags:  
-  - math/Trigonometry  
-  - guide  
----  
+---
+publish: true
+tags:
+  - math/Trigonometry
+  - guide
+---
 After spending way too much time I figured out how to create triangles with tikz like the following!  
   
   
   
-![[triangles-001.svg|triangles-001.svg]]  
+![[../../../attachments/triangles-001 1.svg|triangles-001 1.svg]]  
   
   
 - Install MikTex and Texstudio  
