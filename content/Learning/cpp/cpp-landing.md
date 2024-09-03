@@ -7,7 +7,7 @@ slug: cpp-landing
 My C++ page. Kinda messy but yes!  
   
 ## Fall 2024 Class   
-[Coursebook](https://moosadee.gitlab.io/courses/202401_Spring/book_corecpp.html)  
+[Coursebook](https://gitlab.com/moosadee/courses/-/tree/main/202408_Fall?ref_type=heads)  
 [pdf Coursebook](https://moosadee.gitlab.io/courses/202408_Fall/book_oopcpp.pdf)  
 ### Class Notes  
 | File                                                                        | Unit    |  
