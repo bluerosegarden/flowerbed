@@ -1,6 +1,6 @@
----  
-publish: true  
----  
+---
+publish: true
+---
 You can't have math without formulas!!!!!!!!!!!!!!!!!!!!!!!!!   
   
 ## Continuous Growth  

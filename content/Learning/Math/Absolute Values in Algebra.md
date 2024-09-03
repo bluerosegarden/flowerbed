@@ -1,6 +1,6 @@
----  
-publish: true  
----  
+---
+publish: true
+---
 Absolute values in algebra is a bit weird but aside from some specific rules they're pretty fun to solve.  
   
 First off, **you cannot change the inside signs of an absolute value**. Here's an example:  

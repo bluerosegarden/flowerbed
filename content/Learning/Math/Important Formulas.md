@@ -1,8 +1,8 @@
----  
-publish: true  
-tags:  
-  - math  
----  
+---
+publish: true
+tags:
+  - math
+---
   
 ## Quadratic formula  
 The classic  

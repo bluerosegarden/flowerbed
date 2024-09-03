@@ -1,10 +1,10 @@
----  
-publish: true  
----  
+---
+publish: true
+---
 For every trigonometry diagram I make, I will include its code here!   
   
 ## Basic Right-Triangle diagram  
-![[§Attachments/triangles-001.svg|§Attachments/triangles-001.svg]]  
+![[../../../attachments/triangles-001.svg|triangles-001]]  
 ```latex  
 \documentclass[12pt, tikz, border=5mm]{standalone}    
 \usetikzlibrary{angles,    
@@ -26,7 +26,7 @@ quotes}
 	```  
   
 ## Basic Right-triangle  
-![[§Attachments/triangles-002.svg|§Attachments/triangles-002.svg]]  
+![[../../../attachments/triangles-002.svg|§Attachments/triangles-002.svg]]  
 ```latex  
 \documentclass[12pt, tikz, border=5mm]{standalone}    
 \usetikzlibrary{angles,    
@@ -47,7 +47,7 @@ quotes}
 ```  
   
 ## 45-45-90 triangle  
-![[§Attachments/triangles-003.svg|§Attachments/triangles-003.svg]]  
+![[../../../attachments/triangles-003.svg|triangles-003]]  
   
 ```latex  
 \documentclass[12pt, tikz, border=5mm]{standalone}    
@@ -83,7 +83,7 @@ quotes}
 ```  
   
 ## 30-60-90 triangle  
-![[§Attachments/triangles-004.svg|§Attachments/triangles-004.svg]]  
+![[../../../attachments/triangles-004.svg|triangles-004]]  
 ```latex  
 \documentclass[12pt, tikz, border=5mm]{standalone}    
 \usetikzlibrary{angles,    
@@ -122,7 +122,7 @@ quotes}
 ```  
   
 ## Basic Right-Triangle diagram  
-![[§Attachments/triangles-001.svg|§Attachments/triangles-001.svg]]  
+![[../../../attachments/triangles-001.svg|triangles-001]]  
 ```latex  
 \documentclass[12pt, tikz, border=5mm]{standalone}    
 \usetikzlibrary{angles,    
@@ -136,7 +136,7 @@ quotes}
   
 %%  
 ## Basic Right-Triangle diagram  
-![[§Attachments/triangles-001.svg|§Attachments/triangles-001.svg]]  
+![[../../../attachments/triangles-001.svg|triangles-001]]  
 ```latex  
 \documentclass[12pt, tikz, border=5mm]{standalone}    
 \usetikzlibrary{angles,    

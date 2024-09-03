@@ -1,7 +1,7 @@
----  
-publish: true  
----  
-[[❀Code/Rust|Rust]]  
-[[Flutter & Dart|Flutter & Dart]]  
-[[Typescript|Typescript]]  
-[[Svelte|Svelte]]  
+---
+publish: true
+---
+[[./Rust|Rust]]  
+[[./Flutter & Dart|Flutter & Dart]]  
+[[./Typescript|Typescript]]  
+[[./Svelte|Svelte]]  

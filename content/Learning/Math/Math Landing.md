@@ -1,19 +1,19 @@
----  
-publish: true  
-title: ✿ Math Landing  
----  
+---
+publish: true
+title: ✿ Math Landing
+---
 These are going to be all of my notes on math, ones that work specifically for me but may work for you  
   
 > A math meme that is funny rather than stupid: Solve carefully! 230 - 220 x 0.5 = You probably won't believe it, but the answer is 5!  
 > [source](https://twitter.com/3j0hn/status/913447235534315520?lang=en)  
   
 ## Paths  
-- [[Shortcuts|Shortcuts]]  
-- [[Absolute Values in Algebra|Absolute Values in Algebra]]  
-- [[Completing The Square|Completing The Square]]  
-- [[Big Unorganized Math Notes|Big Unorganized Math Notes]]  
-- [[Logarithms|Logarithms]]  
-- [[Trigonometry Landing|Trigonometry Landing]]  
+- [[./Shortcuts|Shortcuts]]  
+- [[./Absolute Values in Algebra|Absolute Values in Algebra]]  
+- [[./Completing The Square|Completing The Square]]  
+- [[./Big Unorganized Math Notes|Big Unorganized Math Notes]]  
+- [[./Logarithms|Logarithms]]  
+- [[./Trigonometry/Trigonometry Landing|Trigonometry Landing]]  
   
   
 ## Resources   

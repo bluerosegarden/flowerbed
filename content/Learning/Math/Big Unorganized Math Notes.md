@@ -1,6 +1,6 @@
----  
-publish: true  
----  
+---
+publish: true
+---
   
 Turns out making specific pages for each note has been bad for me actually making notes, so here I'm just gonna spam all the notes without much explaining. I'll spin em off into their own notes later, or not, we'll see lmao  
   
@@ -14,7 +14,7 @@ $$
 x\rightarrow\infty,\; y\rightarrow\infty  
 $$  
 > [!graph]  
-> ![[8x exp(4)+2x-1.svg|8x exp(4)+2x-1.svg]]  
+> ![[../../attachments/8x exp(4)+2x-1.svg|8x exp(4)+2x-1.svg]]  
   
   
 When the degree is **even** and the leading coefficient is **negative**  
@@ -25,7 +25,7 @@ $$
 x\rightarrow\infty,\; y\rightarrow-\infty  
 $$  
 > [!graph]  
-> ![[-8x exp(4)+2x-1.svg|-8x exp(4)+2x-1.svg]]  
+> ![[../../attachments/-8x exp(4)+2x-1.svg|-8x exp(4)+2x-1.svg]]  
   
 When the degree is **odd** and the leading coefficient is **positive**  
 $$  
@@ -35,7 +35,7 @@ $$
 x\rightarrow\infty,\; y\rightarrow\infty  
 $$  
 > [!graph]  
-> ![[8x exp(5)+2x exp(2)-1.svg|8x exp(5)+2x exp(2)-1.svg]]  
+> ![[../../attachments/8x exp(5)+2x exp(2)-1.svg|8x exp(5)+2x exp(2)-1.svg]]  
   
 When the degree is **odd** and the leading coefficient is **negative**  
 $$  
@@ -45,7 +45,7 @@ $$
 x\rightarrow\infty,\; y\rightarrow-\infty  
 $$  
 > [!graph]  
-> ![[-8x exp5+2x exp2-1.svg|-8x exp5+2x exp2-1.svg]]  
+> ![[../../attachments/-8x exp5+2x exp2-1.svg|-8x exp5+2x exp2-1.svg]]  
   
 Because of this you can determine the the behavior just by looking at the function  
   
@@ -55,7 +55,7 @@ All x-intercepts are zeroes (also known as *roots*) of a polynomial function, bu
 Also all zeroes of function are a part of its factor! If $x=a$ is a zero of $f(x)$ then $(x-a)$ is a factor of $f(x)$.  
   
   
-To find the zeroes of a function, you set $f(x)$ to be 0, and then solve by factoring (You probably will need the [[Important Formulas|Important Formulas]]).  
+To find the zeroes of a function, you set $f(x)$ to be 0, and then solve by factoring (You probably will need the [[./Important Formulas|Important Formulas]]).  
 $$  
 \begin{gather}  
 f(x)=2x^2+11x-6\\  
@@ -67,7 +67,7 @@ $$
   
 There can't be more zeroes than the degree of a function.  
   
-If you use the [[Important Formulas|Important Formulas]] and get an imaginary number, it's still a valid zero, even if it's not a valid x-intercept.  
+If you use the [[./Important Formulas|Important Formulas]] and get an imaginary number, it's still a valid zero, even if it's not a valid x-intercept.  
   
 So a function with a degree of 8, can have up to 8 zeroes, but they can be less.  
   
@@ -97,7 +97,7 @@ $$
 f(x)=-2x(x-3)^2+8  
 $$  
 > [!graph]  
-> ![[-2x(x-3) exp(2)+8.svg|-2x(x-3) exp(2)+8.svg]]  
+> ![[../../attachments/-2x(x-3) exp(2)+8.svg|-2x(x-3) exp(2)+8.svg]]  
   
 - [[Big Unorganized Math Notes#Determine if the graph opens up or down|Determine if the graph opens up or down]]  
 - [[Big Unorganized Math Notes#Find any x-intercepts|Find any x-intercepts]]  

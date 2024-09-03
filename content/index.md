@@ -1,10 +1,10 @@
----  
-publish: true  
-title: The Pathway into the Hedges  
-slug: index  
-modified: 2024-03-13T12:35:00  
-created: 2024-01-13T12:35:00  
----  
+---
+publish: true
+title: The Pathway into the Hedges
+slug: index
+modified: 2024-03-13T12:35:00
+created: 2024-01-13T12:35:00
+---
   
 Welcome to my digital garden: The Flowerbed. A multi layered and sporadically growing hedgemaze of musings and curiosities.  
   

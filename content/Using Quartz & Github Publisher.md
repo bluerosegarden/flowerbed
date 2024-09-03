@@ -1,6 +1,6 @@
----  
-publish: "true"  
----  
+---
+publish: "true"
+---
 The Obsidian Plugin [Github Publisher](obsidian://show-plugin?id=obsidian-mkdocs-publisher) ([github link](https://github.com/ObsidianPublisher/obsidian-github-publisher)) works amazingly well with quartz! Not only does it allow you to update your digitalgarden straight from Obsidian (on both mobile & desktop no less!) but it also only uploads your published & public files to the repo! It also converts dataview queries into markdown before uploading!  
   
 Not only that but this is deployment agnostic, so if you don't want to use GitHub Pages you don't have to!  
